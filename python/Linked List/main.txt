@@ -1,1 +1,11 @@
 A linked list is composed of multiple nodes, containing 2 things the actual data and the pointer to the next entry in the list
+we know that time complexity of it is as follows:-
+Operation	Singly Linked List
+Access (Get element at index i)	O(n)
+Search (Find element with value x)	O(n)
+Insert at Head	O(1)
+Insert at Tail	O(n) (or O(1))
+Insert at Middle	O(n)
+Delete at Head	O(1)
+Delete at Tail	O(n)
+Delete Specific Node (given pointer)	O(n)
