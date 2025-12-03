@@ -1,0 +1,9 @@
+A QUEue is a linear FIFO data structure
+Access (Get element at index i)			O(1)
+Search (Find element with value x)			O(n) (unsorted)
+Insert at Head			O(1)
+Insert at Tail			O(n) (amortized)
+Insert at Middle			O(n)
+Delete at Head			O(1)
+Delete at Tail			O(n)
+Delete Specific Node (given pointer)			N/A
