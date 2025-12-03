@@ -1,1 +1,1 @@
-
+A stack is a linear LIFO data structure
