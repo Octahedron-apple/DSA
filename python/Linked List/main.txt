@@ -1,1 +1,1 @@
-
+A linked list is composed of multiple nodes, containing 2 things the actual data and the pointer to the next entry in the list
