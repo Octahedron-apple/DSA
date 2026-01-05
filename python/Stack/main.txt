@@ -1,9 +1,0 @@
-A stack is a linear LIFO data structure
-Access (Get element at index i)			O(1)
-Search (Find element with value x)			O(n) (unsorted)
-Insert at Head			O(n)
-Insert at Tail			O(1) (amortized)
-Insert at Middle			O(n)
-Delete at Head			O(n)
-Delete at Tail			O(1)
-Delete Specific Node (given pointer)			N/A

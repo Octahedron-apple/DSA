@@ -1,6 +1,0 @@
-A Hash Map is a theoretical computer science data structure that stores data in key-value pairs.
-Search (Get)	O(1)	O(n)(worstcase)
-Insert (Set)	O(1)	O(n)(worstcase)
-Delete	      O(1)	O(n)(worstcase)
-
-
