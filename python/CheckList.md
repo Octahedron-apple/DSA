@@ -1,0 +1,20 @@
+- [ ] List (Dynamic Array)
+- [ ] Dictionary (Hash Map)
+- [ ] Set (Hash Set)
+- [ ] Tuple
+- [ ] Deque (Double-Ended Queue)
+- [ ] Heap / Priority Queue
+- [ ] Counter (Multiset / Bag)
+- [ ] DefaultDict
+- [ ] Stack
+- [ ] Queue
+- [ ] Singly Linked List
+- [ ] Doubly Linked List
+- [ ] Binary Tree
+- [ ] Binary Search Tree (BST)
+- [ ] Trie (Prefix Tree)
+- [ ] Segment Tree
+- [ ] Graph (Adjacency List / Matrix)
+- [ ] Disjoint-Set (Union-Find)
+- [ ] Bloom Filter
+- [ ] Circular Buffer (Ring Buffer)
